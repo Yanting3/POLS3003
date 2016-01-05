@@ -19,7 +19,7 @@ You have three options for downloading the course material found on this page:
 
 You can also subscribe to the repository if you have a [GitHub account](https://github.com), which will send you updates each time new changes are pushed to the repository.
 
-### Full course details ###
+### Course Handout ###
 
 - Detailed course handout in [pdf format](handout/POLS3003Handout.pdf)
 
