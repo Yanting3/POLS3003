@@ -46,7 +46,7 @@ We will walk you through this process in the first two weeks, so don't worry if 
 ### Before you start the course ###
 
 - [Data Camp R tutorials](https://www.datacamp.com/courses/free-introduction-to-r)
-- [Data Camp R tutorials](https://www.datacamp.com/courses/reporting-with-r-markdown)
+- [Data Camp R Markdown tutorials](https://www.datacamp.com/courses/reporting-with-r-markdown)
 
 ### Resources for each day ###
 
