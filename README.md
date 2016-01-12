@@ -53,7 +53,7 @@ We will walk you through this process in the first two weeks, so don't worry if 
 #### January 12: Course overview and introduction to statistical learning
 
 - [Lecture Notes](week1/POLS3003_week1.pdf)
-- [Assignment 1 as R markdown](week2/POLS3003_assignment1_LASTNAME_FIRSTNAME.Rmd)
+- [Assignment 1 as R markdown](week1/POLS3003_assignment1_LASTNAME_FIRSTNAME.Rmd)
 - Assignment 1 **solution** as [R markdown]
 
 #### January 19: Linear regression  
