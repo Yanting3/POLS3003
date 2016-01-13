@@ -6,7 +6,8 @@ output: html_document
 
 Assignments for the course focus on practical aspects of the concepts covered in the lectures. Assignments are based on the material covered in James et al. You will start working on the assignment in the lab sessions after the lectures, but may need to finish them after class.
 
-We open solutions on Wednesdays after 9pm, you will have until then to your assignments and submit them via Moodle.
+We open solutions on Wednesdays after 9pm, you will have until then to work on your assignments and submit them via Moodle. 
+
 
 You will need to load the core library for the course textbook:
 ```{r}
