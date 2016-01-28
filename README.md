@@ -60,13 +60,13 @@ We will walk you through this process in the first two weeks, so don't worry if 
 
 - [Lecture Notes](week2/POLS3003_week2.pdf)
 - [Assignment 2 as R markdown](week2/POLS3003_assignment2_LASTNAME_FIRSTNAME.Rmd)
-- Assignment 2 **solution** as [R markdown]
+- Assignment 2 **solution** as [R markdown](week2/POLS3003_assignment2_solution.Rmd)
 
 #### January 26: Classification 
 
 - [Lecture Notes](week3/POLS3003_week3.pdf)
 - [Assignment 3 as R markdown](week3/POLS3003_assignment3_LASTNAME_FIRSTNAME.Rmd)
-- Assignment 3 **solution** as [R markdown]
+- Assignment 3 **solution** as [R markdown](week3/POLS3003_assignment3_solution.Rmd)
 
 #### February 2: Resampling Methods and Model Selection and Regularization 
 
