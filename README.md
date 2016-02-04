@@ -72,7 +72,7 @@ We will walk you through this process in the first two weeks, so don't worry if 
 
 - [Lecture Notes](week4/POLS3003_week4.pdf)
 - [Assignment 4 as R markdown](week4/POLS3003_assignment4_LASTNAME_FIRSTNAME.Rmd)
-- Assignment 4 **solution** as [R markdown]
+- Assignment 4 **solution** as [R markdown](week4/POLS3003_assignment4_solution.Rmd)
 
 #### February 9: Non-linear Models and Tree-based Methods
 
