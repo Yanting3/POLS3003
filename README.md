@@ -78,7 +78,7 @@ We will walk you through this process in the first two weeks, so don't worry if 
 
 - [Lecture Notes](week5/POLS3003_week5.pdf)
 - [Assignment 5 as R markdown](week5/POLS3003_assignment5_LASTNAME_FIRSTNAME.Rmd)
-- Assignment 5 **solution** as [R markdown]
+- Assignment 5 **solution** as [R markdown](week5/POLS3003_assignment5_solution.Rmd)
 - Replication assignment: In addition to Assignment 5 you will work in small groups on a replication assignment. This assignment simulates your final research paper for the course (except that you work on this assignment in small groups rather than individually). You will present your results in the seminar on February 23rd.
 
 #### February 23: Support Vector Machines and Unsupervised Learning
