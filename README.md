@@ -85,7 +85,7 @@ We will walk you through this process in the first two weeks, so don't worry if 
 
 - [Lecture Notes](week6/POLS3003_week6.pdf)
 - [Assignment 6 as R markdown](week6/POLS3003_assignment6_LASTNAME_FIRSTNAME.Rmd)
-- Assignment 6 **solution** as [R markdown]
+- Assignment 6 **solution** as [R markdown](week6/POLS3003_assignment6_solution.Rmd)
 
 #### March 1: Text analytics
 
