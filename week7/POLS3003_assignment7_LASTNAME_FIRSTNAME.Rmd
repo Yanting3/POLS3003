@@ -1,0 +1,30 @@
+---
+title: "Assignment 7 - Text Analytics"
+author: "Slava Mikhaylov"
+output: html_document
+---
+
+Assignments for the course focus on practical aspects of the concepts covered in the lectures. Assignments are based on the material covered in James et al. You will start working on the assignment in the lab sessions after the lectures, but may need to finish them after class.
+
+You will have a week to work on the exercise. We'll discuss your analysis in the lab session next week. 
+
+
+### Working with text data in R
+
+You will need to work through:
+
+- quanteda Quick Start Vignette (https://cran.r-project.org/web/packages/quanteda/vignettes/quickstart.html)
+- quanteda Literature Vignette (https://cran.r-project.org/web/packages/quanteda/vignettes/LitVignette.html)
+- [Introduction to Text Analysis Using R (short) workshop]( https://github.com/kbenoit/ITAUR-Short). 
+
+### Analyzing text data in R
+
+With the State of the Union addresses corpus (available with `quantedaData` package as sotuCorpus):
+
+1. Formulate a good research question (should start with `What?`, `Why?` or `How?`, be non-obvious, and substantively interesting to your field of study).
+
+2. Answer the question using any of the analytical methods we covered in the course so far. 
+
+3. Write up your answer in as a short essay using R Markdown where you code chunks can be hidden in the background and only final formatted results presented in the knitted PDF document. Thus it should mimic your final assignment formatting. 
+
+
