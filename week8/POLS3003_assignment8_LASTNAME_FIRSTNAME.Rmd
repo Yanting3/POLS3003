@@ -1,0 +1,30 @@
+---
+title: "Assignment 8 - Topic Models"
+author: "Slava Mikhaylov"
+output: html_document
+---
+
+Assignments for the course focus on practical aspects of the concepts covered in the lectures. Assignments are based on the material covered in James et al. You will start working on the assignment in the lab sessions after the lectures, but may need to finish them after class.
+
+You will have a week to work on the exercise. We'll discuss your analysis in the lab session next week. 
+
+
+### Topic models in R
+
+You will need to work through Pablo Barbera's [Machine Learning for Document Classification and Topic Modeling tutorial](http://htmlpreview.github.io/?https://github.com/pablobarbera/data-science-workshop/blob/master/text/04_machine_learning.html). Specifically the section on topic modeling using `topicmodels` package. That will also introduce you to the `tm` package, as an alternative to `quanteda`.
+
+There's also a brief introduction to topic models in the [Introduction to Text Analysis Using R (short) workshop]( https://github.com/kbenoit/ITAUR-Short) we looked at last week.
+
+You should also explore [structural topic models](http://structuraltopicmodel.com) (`stm` package) for a useful extension of standard LDA. 
+
+### Building a topic modeling analysis in R
+
+With the State of the Union addresses corpus (available with `quantedaData` package as sotuCorpus):
+
+1. Formulate a good research question (should start with `What?`, `Why?` or `How?`, be non-obvious, and substantively interesting to your field of study).
+
+2. Answer the question using any of the topic modeling methods we covered in the course. 
+
+3. Write up your answer in as a short essay using R Markdown where your code chunks can be hidden in the background and only final formatted results presented in the knitted PDF document. Thus, it should mimic your final assignment formatting. 
+
+
