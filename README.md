@@ -91,20 +91,17 @@ We will walk you through this process in the first two weeks, so don't worry if 
 
 - [Lecture Notes](week7/POLS3003_week7.pdf)
 - [Assignment 7 as R markdown](week7/POLS3003_assignment7_LASTNAME_FIRSTNAME.Rmd)
-- Assignment 7 **solution** as [R markdown]
 
 #### March 8: Topic models
 
 - [Lecture Notes](week8/POLS3003_week8.pdf)
 - [Assignment 8 as R markdown](week8/POLS3003_assignment8_LASTNAME_FIRSTNAME.Rmd)
-- Assignment 8 **solution** as [R markdown]
 
 #### March 15: Big data
 
 - [Lecture Notes](week9/POLS3003_week9.pdf)
 - [Assignment 9 as R markdown](week9/POLS3003_assignment9_LASTNAME_FIRSTNAME.Rmd)
-- Assignment 9 **solution** as [R markdown]
-- You need to write a 2-page proposal outlining a clear replication and improvement plan. By 10am on March 15th you should upload your proposal to the corresponding folder to the Moodle page for the course. 
+ 
 
 #### March 22: Hackathon
 
