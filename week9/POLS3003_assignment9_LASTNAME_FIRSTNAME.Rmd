@@ -1,0 +1,13 @@
+---
+title: "Assignment 9 - Final assignment proposal"
+author: "Slava Mikhaylov"
+output: html_document
+---
+
+
+By next Tuesday (March 22nd) prepare a 2-page proposal outlining a clear replication and improvement plan for the article you selected. You should describe the main contribution of the original article, the argument you're replicating, and a clear plan for improvement (extension).
+
+Your proposal should also contain a max 200-word abstract (just like any journal article that you read in this or any other modules) that clearly summarizes the main argument of the original article, the argument in the article you plan to replicate (if different from the main argument), and your plan for improvement of the original analysis. 
+
+
+Your proposal should be in PDF format knitted from an R Markdown file. You should create a Zip archive containing your knitted PDF, Rmd file, and a copy of the original paper. You need to upload your Zip archive by 10am on Tuesday (March 22nd) to a corresponding folder on the module Moodle page. 
