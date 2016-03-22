@@ -105,7 +105,7 @@ We will walk you through this process in the first two weeks, so don't worry if 
 
 #### March 22: Hackathon
 
-- Lecture: Hackathon
+- [Hackathon](week10/POLS3003_assignment10_LASTNAME_FIRSTNAME.Rmd)
 - Seminar: We'll be discussing your 2-page proposals for the final research paper. 
 
 #### Research paper: 

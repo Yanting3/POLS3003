@@ -1,0 +1,31 @@
+---
+title: "Week 10 - Hacking data"
+author: "Slava Mikhaylov"
+output: html_document
+---
+
+
+
+# Description of the data
+
+The UNGA annual regular session begins with the General Debate. During the General Debate the heads of state (or high ranking officials, such as ministers of foreign affairs) deliver formal speeches on most important issues of international and domestic politics from the perspective of their government. 
+
+The UN General Assembly meets annually and most of its formal work (e.g., discussion of particular items on the agenda, procedural issues, debates, votes on resolutions) occurs during regular sessions from the third week of September until December each year. The annual sessions are assigned numbers, starting with the 1st session in 1946 to the 69th Session in 2014. This text corpus contains all speeches made in the GD regular sessions from 1970 (Session 25) to 2014 (Session 69). 
+
+By tradition since 1947, the opening speech is made by the representative of Brazil. The US representative is also typically scheduled to speak on the first day of the debate. Typically, the heads of states and governments are scheduled in the first days of GD, followed by vice-presidents, deputy prime ministers and foreign ministers, and concluding with the heads of delegation to the UN. While numbers vary session by session, on average heads of state or government comprise 37\%  of speakers; vice-presidents, deputy prime ministers and foreign ministers are about 56\%  of speakers; and country representatives at the UN are about 7\%  of all speakers.  
+
+Speeches are mostly made in native languages. However, according to the rules of the Assembly, all statements are then translated by the UN into the six official languages (Arabic, Chinese, English, French, Russian, and Spanish) and deposited at the United Nations Dag Hammarskjold Library. General Debate speeches were collected using dedicated pages of individual UNGA General Debates and available in the UN Bibliographic Information System (UNBIS). The text corpus contains all speeches in the same language (English). If a speech was delivered in a language other than English, the official English version of the speech provided by the UN is used. Overall, the corpus contains 7,310 statements delivered in GD by heads of state or their representative for the period between 1970 and 2014. The number of countries participating in GD grows from 70 in 1970 to 193 in 2014 in line with the growth of UN membership. 
+
+A typical country's speech during GD covers various issues of concern in international security, development, human rights, environment, amongst others, as well as issues of regional or national concern. In fact, such a speech --- often made by the heads of state and government  --- is not unlike the state-of-the-union legislative address that the heads of state deliver to their parliaments. In their national addresses many heads of state discuss current issues of domestic and international policy, review the achievements of the past year, discuss current problems, and outline plans for the immediate future. Similarly, in their address to the General Assembly during the GD, the heads of state or their representatives discuss the most important issues in international politics, review their national foreign policy, criticize or praise the work of the United Nations, and outline issues that need to be addressed by the international community. The most pressing domestic issues of relevance to international community are also raised during the speeches.  
+
+The GD performs a number of important functions. The central function is that the statements made by member states ``act as a barometer of international opinion on important issues, even those not on the agenda for that particular session'' (Smith 2006). This means that speeches in the GD provide governments with an opportunity to put forward their perspective and their position on a range of issues. Indeed, a central purpose of statements at the GD is for representatives to ensure that a point of view is on public record (Bailey 1960). Furthermore, statements made at the UN GD provide one of the few opportunities for smaller and less powerful states to make their positions on various issues known to the public (Smith 2006). Therefore, speeches in the GD provide a key source of information on state preferences. 
+
+## Your data sample
+
+You'll be working with the 2014 UN GD session.
+
+The link to data download is [here:](https://www.dropbox.com/s/l4rowjjsttdsbdz/Session%2069%20-%202014.zip?dl=0)
+
+#Your task
+
+Come up with an interesting research question (should start with `What?`, `Why?` or `How?`, be non-obvious, and substantively interesting to your field of study) and answer it using methods we covered in the course.
